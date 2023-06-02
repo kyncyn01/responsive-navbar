@@ -1,6 +1,6 @@
 {
-  "name": "PWA App",
-  "short_name": "App",
+  "name": "Roro Bot App",
+  "short_name": "RoroBot",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
