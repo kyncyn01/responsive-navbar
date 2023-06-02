@@ -12,4 +12,12 @@ const nextConfig = withPWA({
   },
 });
 
-module.exports = nextConfig
+//module.exports = nextConfig
+module.exports = {
+  pwa: {
+    dest: 'public',
+    mode: 'production', // Force production build
+    // Other options...
+  },
+  // Other configuration...
+}
