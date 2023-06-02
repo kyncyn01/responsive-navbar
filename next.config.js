@@ -4,7 +4,6 @@ const nextConfig = withPWA({
   reactStrictMode: true,
    swcMinify: true,
   productionBrowserSourceMaps: true,
-,
   pwa: {
     dest: "public",
     register: true,
